@@ -28,6 +28,8 @@ public class SettingsActivity extends BaseActivity {
         boolean isMute =
                 IOPref.getInstance().getBoolean(context, IOPref.PreferenceKey.isMute, true);
         switch_mute.setChecked(isMute);
+		
+		
 
         switch_mute.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
