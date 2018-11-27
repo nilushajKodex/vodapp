@@ -62,7 +62,7 @@ public class MainActivity extends BaseActivity implements CacheListener{
     private final int SETTINGS_RESULT = 108;
     //private String mJSONURLString = "http://api.toureazy.com/api/v1/vod/list/";
 
-
+	
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -102,6 +102,7 @@ public class MainActivity extends BaseActivity implements CacheListener{
 
         } catch (IOException ex) {
             System.out.println(".............................................");
+			System.out.println(".............................................");
             System.out.println(ex);
             System.out.println(".............................................");
 
