@@ -1,0 +1,38 @@
+{
+  "UserAgent": "MobileHub/1.0",
+  "Version": "1.0",
+  "CredentialsProvider": {
+    "CognitoIdentity": {
+      "Default": {
+        "PoolId": "ap-southeast-1:dac47039-41a1-4131-8250-d7ff33f40062",
+        "Region": "ap-southeast-1"
+      }
+    }
+  },
+  "IdentityManager": {
+    "Default": {}
+  },
+  "S3TransferUtility": {
+    "Default": {
+      "Bucket": "vodsandroid-userfiles-mobilehub-286425595",
+      "Region": "ap-southeast-1"
+    }
+  },
+  "PinpointAnalytics": {
+    "Default": {
+      "AppId": "3ed0fd27f45b484bac9dcdb3272b536b",
+      "Region": "us-east-1"
+    }
+  },
+  "PinpointTargeting": {
+    "Default": {
+      "Region": "us-east-1"
+    }
+  },
+  "UserFileManager": {
+    "Default": {
+      "Bucket": "vodsandroid-userfiles-mobilehub-286425595",
+      "Region": "ap-southeast-1"
+    }
+  }
+}

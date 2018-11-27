@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: im.ene.toro3:toro-ext-exoplayer-3.5.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/toro-ext-exoplayer-3.5.2.aar/80ea1f3c9529dd3da73f8ed9f977ac65/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/toro-ext-exoplayer-3.5.2.aar/80ea1f3c9529dd3da73f8ed9f977ac65/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/im.ene.toro3/toro-ext-exoplayer/3.5.2/5bdc45a4d1fb853cd69e67e4fd8058d7e01ffefa/toro-ext-exoplayer-3.5.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

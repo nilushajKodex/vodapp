@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: im.ene.toro3:toro-3.5.2">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/toro-3.5.2.aar/d3676605293fdcbfafd45a2ba44a5190/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/toro-3.5.2.aar/d3676605293fdcbfafd45a2ba44a5190/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/toro-3.5.2.aar/d3676605293fdcbfafd45a2ba44a5190/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/im.ene.toro3/toro/3.5.2/ee8664611b804118bc8a08b3279290a5fe726679/toro-3.5.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

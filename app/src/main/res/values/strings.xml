@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VOD beta app</string>
+    <string name="share">Comment</string>
+    <string name="like">Like</string>
+    <string name="action_settings">Settings</string>
+    <string name="default_mute">Default mute</string>
+
+</resources>
